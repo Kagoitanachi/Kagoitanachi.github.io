@@ -4016,7 +4016,7 @@ height:auto;
 	
   #KnowadgeConter{
     position: absolute;
-    top:264vw;
+    top:184vw;
     left: 50%;
     transform: translateX(-50%);
 
@@ -4030,4 +4030,5 @@ height:auto;
     justify-content: center;
 	}
 	
+
 }
