@@ -4133,7 +4133,7 @@ height:auto;
     position: absolute;
     left: 0;
     top: 2.5vw;
-    width: 22vw;
+    width:auto;
     height: 0.2vw;
     background-color: #4A8ACF;
     transition: all 0.2s ease;
@@ -4953,7 +4953,7 @@ height:auto;
     position: absolute;
     left: 0;
     top: 2.5vw;
-    width: 18vw;
+    width: auto;
     height: 0.2vw;
     background-color: #4A8ACF;
     transition: all 0.2s ease;
@@ -5079,4 +5079,5 @@ height:auto;
 	opacity:0.5;
 }
 	
+
 }
